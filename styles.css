@@ -1,0 +1,35 @@
+img {
+  border-radius: 50%;
+  border:12px solid mediumseagreen
+}
+.split {
+  height: 100%;
+  width: 65%;
+  position: fixed;
+  top: 0;
+}
+.right {
+  right: 0;
+  background-color: slategray;
+}
+.right {
+  right: 0;
+  background-color: slategray;
+}
+
+.container {
+  width: 50%;
+  background-color: white;
+}
+
+.skills {
+  text-align: right;
+  padding-top: .5px;
+  padding-bottom: 1px;
+  color: white;
+}
+
+.html {width: 90%; background-color: green;}
+.css {width: 80%; background-color: skyblue;}
+.js {width: 65%; background-color: red;}
+.php {width: 60%; background-color: slateblue;}
